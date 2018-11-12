@@ -1,1 +1,3 @@
 *.m linguist-language=Python
+*.ma linguist-language=Python
+*.mb linguist-language=Python
